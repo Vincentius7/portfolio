@@ -1,2 +1,2 @@
-# portfolio
-marketing portfolio
+# 테크니컬 마케터 박혁의 포트폴리오 입니다.
+
